@@ -2,4 +2,4 @@
 
 library of bpmn icon for excalidraw
 
-![web](images/screeb.png "icon")
+![web](screen.jpg "icon")
